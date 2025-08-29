@@ -1,37 +1,45 @@
 # pseudoliparisgit
 
+
+
 ## About me
-I create AI-based products: websites, applications, programs, and scripts that automate tasks, analyze data, and explore new possibilities with AI and blockchain.
+
+I work on software development, data analysis, and projects involving AI and blockchain technologies. I enjoy creating useful and practical solutions.  
 
 
 
-## Professional focus
-- Applied AI / AI Solutions Engineering  
-- Machine Learning / Deep Learning  
-- Computer Vision, NLP, Audio Processing  
-- Automation of business processes and workflows  
-- Development of AI services: programs, websites, chat assistants, scripts  
-- FinTech, analytics, and forecasting  
-- Blockchain / Cryptocurrency Development  
-- Generative models and interactive AI systems  
+## Areas I'm Interested In
+
+**Software Developer**  
+- Developing websites, applications, programs, and scripts  
+- Web development, mobile development, fullstack  
+
+**AI / Machine Learning Engineer**  
+- Building chatbots and intelligent systems  
+- Text, image, video, and audio recognition  
+- Automating business processes with AI  
+
+**Data Scientist**  
+- Data analysis, trend and profit forecasting  
+- Creating algorithms to support business decision-making  
+
+**Blockchain Developer**  
+- Creating cryptocurrencies, smart contracts, and blockchain services  
+- Ensuring the security of financial transactions  
+
+**Product Manager / Entrepreneur**  
+- Developing new products and services  
+- Designing features for websites and applications  
 
 
 
-## Projects I publish and plan to publish
-- Educational and research projects in ML/DL  
-- Applied products for automation and data analysis  
-- Scripts and utilities to accelerate workflows  
-- Web applications and AI-based services  
-- Experiments with chat assistants, generative models, and blockchain  
+## Key Skills
 
-
-
-## Goals
-- Build a portfolio of 15+ completed AI projects  
-- Create products that automate routine professions  
-- Master development of full-fledged AI web applications  
-- Experiment with financial systems and cryptocurrencies  
-- Develop innovative products and services based on AI and blockchain  
+**Programming Languages:** Python, JavaScript, Solidity  
+**Web Development:** HTML, CSS, databases, API  
+**Machine Learning:** TensorFlow, PyTorch, data processing, computer vision, NLP  
+**Blockchain & Cryptocurrencies:** smart contracts, security, financial tools  
+**Analytics & Business Skills:** forecasting, business planning, finance, and marketing  
 
 
 
